@@ -1,0 +1,22 @@
+.header__div{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    /* height: 100vh; */
+
+    flex-direction: column;
+}
+.header__div_child{
+    align-items: center;
+    justify-content: center;
+    border:1px solid red;
+
+    flex-direction: row;
+}
+.header__div_header{
+    text-align:center;
+    font-size:25px;
+}
+// .header__div_body{
+
+// }

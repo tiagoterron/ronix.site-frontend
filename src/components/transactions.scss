@@ -1,0 +1,99 @@
+.Transactions__HJSUHDIHOUIHdO_Row{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.Transactions__ISUHUSHS_Col{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    // flex-direction: column;
+    background-color:#0e0c1d;
+    margin: 2px;
+    text-align: center;
+    flex: 6;
+    width: 0;
+}
+.Transactions__ISUHUSHS_Col_S{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    // flex-direction: column;
+    background-color:#0e0c1d;
+    margin: 2px;
+    text-align: center;
+    flex: 2;
+    width: 0;
+}
+.Transactions__ISUHUSHS_Col_Cont{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    // flex-direction: column;
+    background-color:#0e0c1d;
+    margin: 2px;
+    min-height: 120px;
+    text-align: center;
+    flex: 6;
+    width: 0;
+
+        div{
+            font-size:0.8rem;
+        }
+        
+}
+.Transactions__ISUHUSHS_Col_Status{
+    flex: 2; 
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    // flex-direction: column;
+    background-color:#0e0c1d;
+    margin: 2px;
+    min-height: 120px;
+    img{
+        margin: 0px auto;
+    }
+}
+
+.Icon___Success_Tx{font-size:25px;color:green;}
+.Icon___Warning_Tx{font-size:25px;color:rgb(255, 251, 0);}
+
+.Transactions__ISUHUSHS_Col_Cont_Tokens{
+    
+}
+
+.TokenPair__Name{
+    font-size:20px;
+    line-height: 25px;
+    margin-right:5px;
+}
+
+.Tokens__UHDDOPKJFHBRHSUHDFOF{
+    background-color: #0e0c1d;
+    padding: 0.5rem 0;
+    width: 24%;
+    margin: 0.1rem 0.1rem 0.3rem 0.1rem;
+
+}
+
+.Tokens__JD87HDUHUD89hIDHL img{
+    width: 2rem;
+    // margin-bottom: 0.8rem;
+    margin: 0px auto;
+}
+
+.Tokens___JUIOPSOHD a{color: white; text-decoration: none;cursor: pointer;}
+
+.Button__Admin_Aprovals{
+    display:flex;
+    flex-direction: column;
+}
+
+.Button__Admin_Aprovals button{
+    background-color:#0e0c1d;
+    color:#FFF;
+    margin-bottom: 10px;
+    padding:5px;
+}
