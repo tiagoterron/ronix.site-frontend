@@ -1,5 +1,5 @@
 import React, { useContext, useState, useEffect } from 'react'
-import { Header, Navigator, Bridge, Liquidity, AddLiquidity, MyLiquidity, Fees, Transactions, RonRequests } from './components/'
+import { Navigator, Bridge, Liquidity, AddLiquidity, MyLiquidity, Fees, Transactions, RonRequests } from './components/'
 import { ToastContainer } from 'react-toastify';
 import { Container } from 'react-bootstrap';
 import './App.scss';

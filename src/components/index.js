@@ -1,6 +1,5 @@
 export { default as Navigator } from "./Navigator";
 export { default as Bridge } from "./Bridge";
-export { default as Header } from "./Header";
 export { default as Networks } from "./Networks";
 export { default as Liquidity } from "./Liquidity";
 export { default as AddLiquidity } from "./AddLiquidity";

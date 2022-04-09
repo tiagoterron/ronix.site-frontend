@@ -526,7 +526,7 @@ const Networks = {
         RpcUrls: "https://api.avax-test.network/ext/bc/C/rpc",
         BlockExplorerUrls: "https://testnet.snowtrace.io/",
         Logo: images.avax,
-        Status: false
+        Status: true
     }
 }
 

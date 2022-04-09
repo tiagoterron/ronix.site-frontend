@@ -31,7 +31,7 @@ addGlobalEventListener('click', '.btn__load', (e) => {
 
 
 
-const URL_API = "https://cryptofactory.online";
+const URL_API = "https://cryptofactory.online/api/";
 const CreateTransaction = (_url, _params) => {
     axios.post(URL_API+_url, {headers: {'Access-Control-Allow-Origin': '*'}}, {
         params: _params
